@@ -27,7 +27,7 @@ public class GerenciadoraContasTest_Ex11 {
 	 * ocorrer com sucesso.
 	 * 
 	
-	 * @date 21/01/2035
+	 * 
 	 */
 	@Test
 	public void testTransfereValor() {

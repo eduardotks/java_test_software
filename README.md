@@ -21,6 +21,6 @@
 ### Image
 
 <p align="center">
-  <img src="https://github.com/eduardotks/">
+  <img src="https://github.com/eduardotks/java_test_software/blob/main/TestBankSystem/imagens/capa.jpg">
 </p>
 
